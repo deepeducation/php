@@ -1,0 +1,1 @@
+http://paykuntest.000webhostapp.com/demo/submit.php?product=cloths&amount=11&contact=9412345678&name=kuldeep&email=kuldeep@gmail.com
